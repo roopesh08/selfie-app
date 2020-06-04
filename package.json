@@ -1,0 +1,15 @@
+{
+  "name": "selfie-app",
+  "version": "1.0.0",
+  "description": "selfie app finding the current location",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "roopesh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
